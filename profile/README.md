@@ -18,10 +18,10 @@ Independent Unity libraries and tools developed by [@kamahir0](https://github.co
 
 | パッケージ | リポジトリ | UPM Package ID | インストールURL (Git URL) |
 |---|---|---|---|
-| **AssetManagement** | [kamahir0-lilja/AssetManagement](https://github.com/kamahir0-lilja/AssetManagement) |  |  |
-| **DebugUI** | [kamahir0-lilja/DebugUI](https://github.com/kamahir0-lilja/DebugUI) |  |  |
-| **DevKit** | [kamahir0-lilja/DevKit](https://github.com/kamahir0-lilja/DevKit) |  |  |
-| **EditorEx** | [kamahir0-lilja/EditorEx](https://github.com/kamahir0-lilja/EditorEx) |  |  |
-| **FancyScrollView** | [kamahir0-lilja/FancyScrollView](https://github.com/kamahir0-lilja/FancyScrollView) |  |  |
-| **Repository** | [kamahir0-lilja/Repository](https://github.com/kamahir0-lilja/Repository) |  |  |
-| **ScreenManagement** | [kamahir0-lilja/ScreenManagement](https://github.com/kamahir0-lilja/ScreenManagement) |  |  |
+| **AssetManagement** | [kamahir0-lilja/AssetManagement](https://github.com/kamahir0-lilja/AssetManagement) | `com.kamahir0.asset-management` | `https://github.com/kamahir0-lilja/AssetManagement.git?path=/Packages/com.kamahir0.asset-management` |
+| **DebugUI** | [kamahir0-lilja/DebugUI](https://github.com/kamahir0-lilja/DebugUI) | `com.kamahir0.debug-ui` | `https://github.com/kamahir0-lilja/DebugUI.git?path=/Packages/com.kamahir0.debug-ui` |
+| **DevKit** | [kamahir0-lilja/DevKit](https://github.com/kamahir0-lilja/DevKit) | `com.kamahir0.dev-kit` | `https://github.com/kamahir0-lilja/DevKit.git?path=/Packages/com.kamahir0.dev-kit` |
+| **EditorEx** | [kamahir0-lilja/EditorEx](https://github.com/kamahir0-lilja/EditorEx) | `com.kamahir0.editor-ex` | `https://github.com/kamahir0-lilja/EditorEx.git?path=/Packages/com.kamahir0.editor-ex` |
+| **FancyScrollView** | [kamahir0-lilja/FancyScrollView](https://github.com/kamahir0-lilja/FancyScrollView) | `com.kamahir0.fancy-scroll-view` | `https://github.com/kamahir0-lilja/FancyScrollView.git?path=/Packages/com.kamahir0.fancy-scroll-view` |
+| **Repository** | [kamahir0-lilja/Repository](https://github.com/kamahir0-lilja/Repository) | `com.kamahir0.repository` | `https://github.com/kamahir0-lilja/Repository.git?path=/Packages/com.kamahir0.repository` |
+| **ScreenManagement** | [kamahir0-lilja/ScreenManagement](https://github.com/kamahir0-lilja/ScreenManagement) | `com.kamahir0.screen-management` | `https://github.com/kamahir0-lilja/ScreenManagement.git?path=/Packages/com.kamahir0.screen-management` |
